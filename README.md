@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Q3dlaXpoaQ,a simple junior school student.
+- 👋 Hi, I’m @Q3dlaXpoaQ,a simple junior school student who love programming
 - 👀 I’m interested in C#,Pyhotn,C++ and so on.
 - 🌱 I’m currently learning Unity to make a racing game
 
